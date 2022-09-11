@@ -68,3 +68,47 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+<-------------------------------------------------------------BOOK MY SHOW PROJECT DETAILS--------------------------------------------------->
+## PACKAGES USED IN PROJECT
+    1 - React
+    2 - Tailwind css
+    3 - React Slick (for slider and crousel)
+    4 - React Icon
+    5 - React-Context-API (State management in react)
+    6 - axios (fetching data from API)
+    7 - Headless UI (for Popups, dropdowns and dialog box etc.)
+
+
+## PAGES WILL CREATE IN PROJECT
+    1 - Home.page.jsx
+    2 - Movie.page.jsx
+    3 - Play.page.jsx
+
+
+## HOC's WILL CREATE FOR LAYOUT OF PROJECT
+    1 - Default.HOC.jsx
+    2 - Movie.HOC.jsx
+
+
+## COMPONENTS WILL CREATE IN PROJECT
+    1 - Cast ----------->   cast.component.jsx
+    2 - Entertainment -->   entertainment.component.jsx
+    3 - Hero Crousel --->   * heroCrousel.component.jsx
+                            * arrows.component.jsx
+
+    4 - Movie Hero ----->   * movieHero.component.jsx
+                            * movieInfo.component.jsx
+
+    5 - Navber -------->    * movieNavbar.component.jsx
+                            * navbar.component.jsx
+    
+    6 - Payment Modal ->    payment.component.jsx
+    7 - Playfilters --->    playfilters.component.jsx
+    8 - Poster -------->    poster.component.jsx
+    9 - Poster Slider ->    posterSlider.component.jsx
